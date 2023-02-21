@@ -5,7 +5,7 @@
 <strong>Etapas ✔️</strong>
 - Criar repositório
 - Realizar *pull* e *push*
--
+- Anotações úteis
 
 
 
